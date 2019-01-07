@@ -5,6 +5,7 @@ namespace SubModCommon
     public enum TestEnum
     {
         First,
-        Second
+        Second,
+        Third
     }
 }
